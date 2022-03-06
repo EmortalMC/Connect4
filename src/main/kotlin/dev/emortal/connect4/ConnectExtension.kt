@@ -20,7 +20,7 @@ class ConnectExtension : Extension() {
             GameOptions(
                 maxPlayers = 2,
                 minPlayers = 2,
-                countdownSeconds = 3
+                countdownSeconds = 5
             )
         )
 
